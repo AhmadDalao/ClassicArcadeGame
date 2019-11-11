@@ -18,3 +18,7 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 2. open Index.html .
 3. Start Play.
 4. Have fun .
+
+
+
+[[https://github.com/AhmadDalao/ClassicArcadeGame/tree/master/images/game.png|alt=octocat]]
