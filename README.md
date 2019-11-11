@@ -1,4 +1,4 @@
-# Classic Arcade Game Clone Project
+# Classic Arcade Game
 
 ## Table of Contents
 
@@ -21,4 +21,4 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 
 
 
-[[https://github.com/AhmadDalao/ClassicArcadeGame/blob/master/images/game.png|alt=octocat]]
+[[https://raw.githubusercontent.com/AhmadDalao/ClassicArcadeGame/master/images/game.png|alt=octocat]]
