@@ -21,4 +21,4 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 
 
 
-[[https://raw.githubusercontent.com/AhmadDalao/ClassicArcadeGame/master/images/game.png|alt=octocat]]
+![alt text](https://raw.githubusercontent.com/AhmadDalao/ClassicArcadeGame/master/images/game.png)
