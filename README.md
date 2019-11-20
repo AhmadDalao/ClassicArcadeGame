@@ -16,7 +16,7 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 
 1. Clone this Reposatery .
 2. open Index.html .
-3. Start Play.
+3. Start Playing.
 4. Have fun .
 
 
