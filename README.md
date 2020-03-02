@@ -4,6 +4,7 @@
 
 - [Instructions](#instructions)
 - [How To Run the game](#How-To-Run-the-game)
+- [play the game] https://ahmaddalao.github.io/ClassicArcadeGame/
 
 
 ## Instructions
