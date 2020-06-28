@@ -19,7 +19,7 @@ Simple yet fun game.
 ## How To Run the game
 
 1. Clone this Reposatery .
-2. open Index.html .
+2. open Index.html or open the play the game link.
 3. Start Playing.
 4. Have fun .
 
